@@ -4,7 +4,7 @@ Some deep learning tutorials written in Theano and jupyter notebook.
 #### Added tutorials:
 * Convolutional Neural Networks
 #### to be added:
-* Theano basics and multi-layer perceptron
+* Multi-layer perceptron
 * Optimization of Fully Convolutional Neural Networks
 * Recurrent Neural Networks
 * Regularization
