@@ -11,5 +11,5 @@ Some deep learning tutorials written in Theano and jupyter notebook.
 
 ### More information and my main sources: 
 * [Theano documentation](http://deeplearning.net/software/theano/)
-*[Ian Goodfellow and Yoshua Bengio's deep learning book](https://www.deeplearningbook.org/)
+* [Ian Goodfellow and Yoshua Bengio's deep learning book](https://www.deeplearningbook.org/)
 
