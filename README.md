@@ -1,4 +1,4 @@
-# TheanoTutorials
+# Theano Tutorials
 Some deep learning tutorials written in Theano and jupyter notebook. 
 
 #### Added tutorials:
